@@ -5,12 +5,12 @@
 <p> All data are stored in Data Base </p>
 <p>Now your menu should look like this:</p>
 
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
 
 <p>If the user asks for <b>Balance</b>, you should read the balance of the account from the database and output it into the console.</p>
 
@@ -27,141 +27,141 @@
 
 </ul>
 
-<p>If the user chooses the <b>Close an account<b> item, you should delete that account from the database.</p>
+<p>If the user chooses the <b>Close an account</b> item, you should delete that account from the database.</p>
 
 <p><b>Examples</b></p>
 <p>Example 1:</p>
-<code>1. Create an account</code>
-<code>2. Log into account</code>
-<code>0. Exit</code>
-<code>>1</code>
-<code></code>
-<code>Your card has been created</code>
-<code>Your card number:</code>
-<code>4000009455296122</code>
-<code>Your card PIN:</code>
-<code>1961</code>
-<code></code>
-<code>1. Create an account</code>
-<code>2. Log into account</code>
-<code>0. Exit</code>
-<code>>1</code>
-<code></code>
-<code>Your card has been created</code>
-<code>Your card number:</code>
-<code>4000003305160034</code>
-<code>Your card PIN:</code>
-<code>5639</code>
-<code></code>
-<code>1. Create an account</code>
-<code>2. Log into account</code>
-<code>0. Exit</code>
-<code>>2</code>
-<code></code>
-<code>Enter your card number:</code>
-<code>>4000009455296122</code>
-<code>Enter your PIN:</code>
-<code>>1961</code>
-<code></code>
-<code>You have successfully logged in!</code>
-<code></code>
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
-<code>>2</code>
-<code></code>
-<code>Enter income:</code>
-<code>>10000</code>
-<code>Income was added!</code>
-<code></code>
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
-<code>>1</code>
-<code></code>
-<code>Balance: 10000</code>
-<code></code>
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
-<code>>3</code>
-<code></code>
-<code>Transfer</code>
-<code>Enter card number:</code>
-<code>>4000003305160035</code>
-<code>Probably you made mistake in the card number. Please try again!</code>
-<code></code>
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
-<code>>3</code>
-<code></code>
-<code>Transfer</code>
-<code>Enter card number:</code>
-<code>>4000003305061034</code>
-<code>Such a card does not exist.</code>
-<code></code>
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
-<code>>3</code>
-<code></code>
-<code>Transfer</code>
-<code>Enter card number:</code>
-<code>>4000003305160034</code>
-<code>Enter how much money you want to transfer:</code>
-<code>>15000</code>
-<code>Not enough money!</code>
-<code></code>
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
-<code>>3</code>
-<code></code>
-<code>Transfer</code>
-<code>Enter card number:</code>
-<code>>4000003305160034</code>
-<code>Enter how much money you want to transfer:</code>
-<code>>5000</code>
-<code>Success!</code>
-<code></code>
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
-<code>>1</code>
-<code></code>
-<code>Balance: 5000</code>
-<code></code>
-<code>1. Balance</code>
-<code>2. Add income</code>
-<code>3. Do transfer</code>
-<code>4. Close account</code>
-<code>5. Log out</code>
-<code>0. Exit</code>
-<code></code>
-<code>>0</code>
-<code>Bye!</code>
+<code>1. Create an account</code><br>
+<code>2. Log into account</code><br>
+<code>0. Exit</code><br>
+<code>>1</code><br>
+<code></code><br>
+<code>Your card has been created</code><br>
+<code>Your card number:</code><br>
+<code>4000009455296122</code><br>
+<code>Your card PIN:</code><br>
+<code>1961</code><br>
+<code></code><br>
+<code>1. Create an account</code><br>
+<code>2. Log into account</code><br>
+<code>0. Exit</code><br>
+<code>>1</code><br>
+<code></code><br>
+<code>Your card has been created</code><br>
+<code>Your card number:</code><br>
+<code>4000003305160034</code><br>
+<code>Your card PIN:</code><br>
+<code>5639</code><br>
+<code></code><br>
+<code>1. Create an account</code><br>
+<code>2. Log into account</code><br>
+<code>0. Exit</code><br>
+<code>>2</code><br>
+<code></code><br>
+<code>Enter your card number:</code><br>
+<code>>4000009455296122</code><br>
+<code>Enter your PIN:</code><br>
+<code>>1961</code><br>
+<code></code><br>
+<code>You have successfully logged in!</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code>>2</code><br>
+<code></code><br>
+<code>Enter income:</code><br>
+<code>>10000</code><br>
+<code>Income was added!</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code>>1</code><br>
+<code></code><br>
+<code>Balance: 10000</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code>>3</code><br>
+<code></code><br>
+<code>Transfer</code><br>
+<code>Enter card number:</code><br>
+<code>>4000003305160035</code><br>
+<code>Probably you made mistake in the card number. Please try again!</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code>>3</code><br>
+<code></code><br>
+<code>Transfer</code><br>
+<code>Enter card number:</code><br>
+<code>>4000003305061034</code><br>
+<code>Such a card does not exist.</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code>>3</code><br>
+<code></code><br>
+<code>Transfer</code><br>
+<code>Enter card number:</code><br>
+<code>>4000003305160034</code><br>
+<code>Enter how much money you want to transfer:</code><br>
+<code>>15000</code><br>
+<code>Not enough money!</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code>>3</code><br>
+<code></code><br>
+<code>Transfer</code><br>
+<code>Enter card number:</code><br>
+<code>>4000003305160034</code><br>
+<code>Enter how much money you want to transfer:</code><br>
+<code>>5000</code><br>
+<code>Success!</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code>>1</code><br>
+<code></code><br>
+<code>Balance: 5000</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code></code><br>
+<code>>0</code><br>
+<code>Bye!</code><br>
 
 
 
