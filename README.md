@@ -162,14 +162,59 @@
 <code></code><br>
 <code>>0</code><br>
 <code>Bye!</code><br>
-
-
-
-
-
-
-
-
+<br>
+<p>Example 2:</p>
+<code>1. Create an account</code><br>
+<code>2. Log into account</code><br>
+<code>0. Exit</code><br>
+<code>>1</code><br>
+<code></code><br>
+<code>Your card has been created</code><br>
+<code>Your card number:</code><br>
+<code>4000007916053702</code><br>
+<code>Your card PIN:</code><br>
+<code>6263</code><br>
+<code></code><br>
+<code>1. Create an account</code><br>
+<code>2. Log into account</code><br>
+<code>0. Exit</code><br>
+<code>>2</code><br>
+<code></code><br>
+<code>Enter your card number:</code><br>
+<code>>4000007916053702</code><br>
+<code>Enter your PIN:</code><br>
+<code>>6263</code><br>
+<code></code><br>
+<code>You have successfully logged in!</code><br>
+<code></code><br>
+<code>1. Balance</code><br>
+<code>2. Add income</code><br>
+<code>3. Do transfer</code><br>
+<code>4. Close account</code><br>
+<code>5. Log out</code><br>
+<code>0. Exit</code><br>
+<code>>4</code><br>
+<code></code><br>
+<code>The account has been closed!</code><br>
+<code></code><br>
+<code>1. Create an account</code><br>
+<code>2. Log into account</code><br>
+<code>0. Exit</code><br>
+<code>>2</code><br>
+<code></code><br>
+<code>Enter your card number:</code><br>
+<code>>4000007916053702</code><br>
+<code>Enter your PIN:</code><br>
+<code>>6263</code><br>
+<code></code><br>
+<code>Wrong card number or PIN!</code><br>
+<code></code><br>
+<code>1. Create an account</code><br>
+<code>2. Log into account</code><br>
+<code>0. Exit</code><br>
+<code>>0</code><br>
+<code></code><br>
+<code>Bye!</code><br>
 
 
 
